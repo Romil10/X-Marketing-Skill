@@ -96,6 +96,11 @@ Without WAT, all outputs are delivered inline as markdown.
 - Use hype language ("game-changing", "excited to share", "innovative")
 - Skip self-review before delivering content
 
+## Credits
+
+Original idea by [Hridoy Rehman](https://x.com/hridoyreh) ([@hridoyreh](https://x.com/hridoyreh) on X).
+Built and open-sourced by [Romil Sharma](https://x.com/romilsharma).
+
 ---
 
 Built to work with [Claude Code](https://claude.ai/claude-code).
